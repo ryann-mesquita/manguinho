@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "test.js",
+  "husky":{
+    "hooks": {
+      "pre-commit": "'echo teste'"
+    }
+  },
   "scripts": {
     "test": "jest --passWithNoTests",
     "test:staged": "jest --passWithNoTests"
