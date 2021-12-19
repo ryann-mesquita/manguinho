@@ -51,7 +51,8 @@
         "@typescript-eslint/consistent-type-definitions": "off",
         "@typescript-eslint/comma-spacing": "off",
         "@typescript-eslint/camelcase": 0,
-        "consistent-return": "off"
+        "consistent-return": "off",
+        "arrow-body-style": ["error", "always"]
     },
     "settings": {
         
