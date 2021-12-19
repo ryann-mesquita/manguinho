@@ -1,7 +1,7 @@
 export class SignUpController {
-  handle (httpReqquest: any): any {
+  handle(_httpRequest: any): any {
     return {
-      statusCode: 400
-    }
+      statusCode: 400,
+    };
   }
 }
