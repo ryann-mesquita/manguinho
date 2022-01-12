@@ -53,7 +53,9 @@
         "@typescript-eslint/camelcase": 0,
         "consistent-return": "off",
         "arrow-body-style": ["error", "always"],
-        "no-restricted-syntax": ["error", "ForInStatement", "LabeledStatement", "WithStatement"]
+        "no-restricted-syntax": ["error", "ForInStatement", "LabeledStatement", "WithStatement"],
+        "max-classes-per-file": "off"
+
 
     },
     "settings": {
