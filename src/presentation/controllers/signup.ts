@@ -23,7 +23,7 @@ export class SignUpController implements Controller {
       }
       const isValid = this.emailValidator.isValid(_httpRequest.body.email);
       if (!isValid) {
-        return badRequest(new InvalidParamError('email'));
+        return badRequest(new InvalidParamError('email2'));
       }
     } catch (error) {
       return {
