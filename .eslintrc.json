@@ -33,6 +33,7 @@
               "tsx": "never"
             }
          ],
+        "@typescript-eslint/no-var-requires": 0, 
         "object-curly-newline": "off", 
         "import/prefer-default-export": "off", 
         "linebreak-style": 0,

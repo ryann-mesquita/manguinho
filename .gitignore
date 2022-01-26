@@ -1,6 +1,6 @@
 node_modules
 dist
 /coverage.data
-/coverage/
+coverage
 clover.xml
 Icov.info
