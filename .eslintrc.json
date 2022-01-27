@@ -54,7 +54,7 @@
         "@typescript-eslint/comma-spacing": "off",
         "@typescript-eslint/camelcase": 0,
         "consistent-return": "off",
-        "arrow-body-style": ["error", "always"],
+        "arrow-body-style": ["error", "as-needed"],
         "no-restricted-syntax": ["error", "ForInStatement", "LabeledStatement", "WithStatement"],
         "max-classes-per-file": "off"
 
