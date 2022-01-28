@@ -47,7 +47,7 @@
         {
             "argsIgnorePattern": "_"
         }
-        ],  
+        ],
         "class-methods-use-this": "off",
         "@typescript-eslint/strict-boolean-expressions": "off",
         "@typescript-eslint/consistent-type-definitions": "off",
