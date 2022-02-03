@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1643389050586" clover="3.2.0">
-  <project timestamp="1643389050586" name="All files">
+<coverage generated="1643390793234" clover="3.2.0">
+  <project timestamp="1643390793234" name="All files">
     <metrics statements="49" coveredstatements="43" conditionals="3" coveredconditionals="3" methods="12" coveredmethods="12" elements="64" coveredelements="58" complexity="0" loc="49" ncloc="49" packages="6" files="10" classes="10"/>
     <package name="data.usecases.add-account">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
       <file name="db-add-account.ts" path="C:\xampp\htdocs\clean-node-api\src\data\usecases\add-account\db-add-account.ts">
         <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
         <line num="5" count="1" type="stmt"/>
-        <line num="9" count="1" type="stmt"/>
-        <line num="13" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
         <line num="14" count="1" type="stmt"/>
         <line num="15" count="1" type="stmt"/>
       </file>
