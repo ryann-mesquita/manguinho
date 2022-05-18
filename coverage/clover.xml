@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1643907994945" clover="3.2.0">
-  <project timestamp="1643907994945" name="All files">
-    <metrics statements="55" coveredstatements="45" conditionals="3" coveredconditionals="3" methods="12" coveredmethods="12" elements="70" coveredelements="60" complexity="0" loc="55" ncloc="55" packages="6" files="11" classes="11"/>
+<coverage generated="1652878112792" clover="3.2.0">
+  <project timestamp="1652878112793" name="All files">
+    <metrics statements="59" coveredstatements="49" conditionals="3" coveredconditionals="3" methods="13" coveredmethods="13" elements="75" coveredelements="65" complexity="0" loc="59" ncloc="59" packages="7" files="12" classes="12"/>
     <package name="data.usecases.add-account">
-      <metrics statements="11" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <metrics statements="10" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <file name="db-add-account-protocols.ts" path="C:\xampp\htdocs\clean-node-api\src\data\usecases\add-account\db-add-account-protocols.ts">
         <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="0" type="stmt"/>
@@ -12,14 +12,24 @@
         <line num="4" count="0" type="stmt"/>
       </file>
       <file name="db-add-account.ts" path="C:\xampp\htdocs\clean-node-api\src\data\usecases\add-account\db-add-account.ts">
-        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="3" count="1" type="stmt"/>
-        <line num="9" count="3" type="stmt"/>
-        <line num="10" count="3" type="stmt"/>
-        <line num="14" count="3" type="stmt"/>
-        <line num="15" count="2" type="stmt"/>
-        <line num="16" count="2" type="stmt"/>
-        <line num="17" count="2" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="infra.criptography">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="bcrypt-adapter.ts" path="C:\xampp\htdocs\clean-node-api\src\infra\criptography\bcrypt-adapter.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
       </file>
     </package>
     <package name="presentation.controllers.signup">
